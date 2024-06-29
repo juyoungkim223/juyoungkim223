@@ -13,7 +13,6 @@ Talk to me about
 - DevOps for **Oracle, MsSQL, Redis, Kafka, Openshift**
 
 ## About me 🤔
-- I Love ❤️ programming
 - 📫 How to reach me: [car22332@gmail.com](mailto:car22332@gmail.com)
 - 📫 Read my blogs: [Juyoung's Blog](https://juyoungkim223.github.io/)
 - 🎯 Link to Game: [Link to Game](https://play.google.com/store/apps/dev?id=8524035332472869340)
